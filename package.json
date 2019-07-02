@@ -1,0 +1,19 @@
+{
+  "name": "leaf_generator",
+  "version": "1.0.0",
+  "description": "testing paperjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mark tension",
+  "license": "ISC",
+  "dependencies": {
+    "focus-visible": "^4.1.5",
+    "mathjs": "^6.0.2",
+    "p5": "^0.8.0",
+    "paper": "^0.12.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {}
+}
