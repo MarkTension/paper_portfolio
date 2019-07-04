@@ -26,8 +26,20 @@
 
 /* Custom
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+#intro {
+  align-content: center;
+}
+
 #myCanvas {
   width: 60%;
+}
+
+#title {
+  color: palevioletred;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  width: 50%;
+  margin-top: 100px;
 }
 
 #introTxt {
@@ -35,6 +47,8 @@
   font-family: "Raleway", sans-serif;
   font-weight: 300;
   text-align: justify;
+  width: 50%;
+  margin-top: 100px;
 }
 
 emph {
@@ -44,10 +58,6 @@ emph {
   /* font-style: inherit; */
   color: palevioletred;
 }
-
-/* #upper {
-  margin-top: 50vh;
-} */
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
